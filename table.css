@@ -1,0 +1,201 @@
+*{
+    background-color: rgb(150, 145, 145);
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    text-align: center;
+}
+table{
+    border: 1px;
+    border-radius: 100%;
+    border-color: rgb(243, 247, 246);
+}
+.naoMetais{
+    background-color: transparent;
+    border: 5px solid #ff9100;
+    width: 80px;
+    height: 90px;
+    text-align: center;
+    -webkit-text-fill-color: #ff9100;
+}
+.gasesNobres{
+ 
+        background-color: transparent;
+        border: 5px solid #0b71ee;
+        width: 80px;
+        height: 90px;
+        text-align: center;
+        -webkit-text-fill-color: #263cca;
+    }
+
+b, h2, sup{
+    background-color:(150, 145, 145);
+}
+.metaisAlcalinos{
+    background-color: transparent;
+    border: 5px solid #a200ff;
+    width: 80px;
+    height: 90px;
+    text-align: center;
+    -webkit-text-fill-color: #622c8c;
+
+}
+.alcalinosTerrosos{
+    background-color: transparent;
+    border: 5px solid #4c0078;
+    width: 80px;
+    height: 90px;
+    text-align: center;
+    -webkit-text-fill-color: #4c0078;
+}
+.semiMetais{
+    background-color: transparent;
+    border: 5px solid #d9ff00;
+    width: 80px;
+    height: 90px;
+    text-align: center;
+    -webkit-text-fill-color: #d9ff00;
+}
+.naoMetaisPoli{
+    background-color: transparent;
+    border: 5px solid #2eb76a;
+    width: 80px;
+    height: 90px;
+    text-align: center;
+    -webkit-text-fill-color: #335a44;
+}
+.empty{
+    width: 80px;
+    height: 90px;
+    background-color: (150, 145, 145);
+
+}
+.metaisPosTransi{
+    background-color: transparent;
+    border: 5px solid #ec1d1d;
+    width: 80px;
+    height: 90px;
+    text-align: center;
+    -webkit-text-fill-color: #d60000;
+}
+.metaisDeTransi{
+    background-color: transparent;
+    border: 5px solid #37b72e;
+    width: 80px;
+    height: 90px;
+    text-align: center;
+    -webkit-text-fill-color: #467838;
+}
+.latanideos{
+    background-color: transparent;
+    border: 5px solid #ff0066;
+    width: 80px;
+    height: 90px;
+    text-align: center;
+    -webkit-text-fill-color: #ff0069;
+}
+.actinideos{
+    background-color: transparent;
+    border: 5px solid #ff008cf3;
+    width: 80px;
+    height: 90px;
+    text-align: center;
+    -webkit-text-fill-color: #ff00a6;
+}
+.propriedadesDesconhecidas{
+    background-color: transparent;
+    border: 5px solid #3f3f3ff3;
+    width: 80px;
+    height: 90px;
+    text-align: center;
+    -webkit-text-fill-color: #131112;
+}
+.legenda1{
+    background-color: transparent;
+    border: 5px solid #3f3f3ff3;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    -webkit-text-fill-color: #131112;
+}
+.legenda2{
+    background-color: transparent;
+    border: 5px solid #a200ff;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    -webkit-text-fill-color: #622c8c;
+}
+.legenda3{
+    background-color: transparent;
+    border: 5px solid #4c0078;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    -webkit-text-fill-color: #4c0078;
+}
+.legenda4{
+    background-color: transparent;
+    border: 5px solid #37b72e;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    -webkit-text-fill-color: #467838;
+}
+.legenda5{
+    background-color: transparent;
+    border: 5px solid #ec1d1d;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    -webkit-text-fill-color: #d60000;
+}
+.legenda6{
+    background-color: transparent;
+    border: 5px solid #d9ff00;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    -webkit-text-fill-color: #d9ff00;
+}
+.legenda7{
+    background-color: transparent;
+    border: 5px solid #2eb76a;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    -webkit-text-fill-color: #335a44;
+}
+.legenda8{
+    background-color: transparent;
+    border: 5px solid #ff9100;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    -webkit-text-fill-color: #ff9100;
+}
+.legenda9{
+    background-color: transparent;
+    border: 5px solid #0b71ee;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    -webkit-text-fill-color: #263cca;
+}
+.legenda10{
+    background-color: transparent;
+    border: 5px solid #ff0066;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    -webkit-text-fill-color: #ff0069;
+}
+.legenda11{
+    background-color: transparent;
+    border: 5px solid #ff008cf3;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    -webkit-text-fill-color: #ff00a6;
+}
